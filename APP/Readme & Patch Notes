@@ -1,0 +1,5 @@
+This Version is currently working as intented, until further changes are to be made.
+Version number: 1.4
+Patch Notes:
+  - Cleaned up dead code
+  - Fixed Reset Issue, where Function gets stuck in a loop until Tag is detected
